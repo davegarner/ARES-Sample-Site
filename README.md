@@ -1,5 +1,5 @@
 # ARES GRID Static Site (IIS Root)
-
+David Garner 2026
 ## What is included
 
 - Shared header and footer partials loaded into every page from `/partials/`
