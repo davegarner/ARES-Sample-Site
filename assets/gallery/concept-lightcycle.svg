@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#0a0d12"/>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0%" stop-color="#14f1c7"/><stop offset="100%" stop-color="#57b7ff"/></linearGradient></defs>
+<g opacity="0.16" stroke="url(#g)" stroke-width="1">
+  <path d="M0 760 L300 460 L600 610 L900 320 L1200 430" fill="none"/>
+  <path d="M0 700 L300 400 L600 550 L900 260 L1200 370" fill="none"/>
+  <path d="M0 640 L300 340 L600 490 L900 200 L1200 310" fill="none"/>
+  <path d="M0 580 L300 280 L600 430 L900 140 L1200 250" fill="none"/>
+</g>
+<text x="110" y="120" fill="#d4fff6" font-family="Consolas, monospace" font-size="54">LIGHTCYCLE ENGINE // CONCEPT</text>
+<rect x="100" y="170" width="1000" height="520" rx="18" fill="none" stroke="url(#g)" stroke-width="3"/>
+<circle cx="330" cy="485" r="95" fill="none" stroke="#14f1c7" stroke-width="5"/>
+<circle cx="860" cy="485" r="95" fill="none" stroke="#57b7ff" stroke-width="5"/>
+<path d="M330 485 H860" stroke="#d4fff6" stroke-width="8"/>
+<path d="M420 390 L520 310 H770 L860 390" fill="none" stroke="#d4fff6" stroke-width="4"/>
+</svg>

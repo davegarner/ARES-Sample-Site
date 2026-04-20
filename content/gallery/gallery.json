@@ -1,0 +1,26 @@
+[
+  {
+    "id": "poster-grid",
+    "title": "Poster // Grid",
+    "type": "image",
+    "image": "/assets/gallery/poster-grid.svg",
+    "summary": "Static SVG poster with neon frame and grid motif.",
+    "notesFile": "/content/gallery/poster-grid.md"
+  },
+  {
+    "id": "concept-lightcycle",
+    "title": "Concept // Lightcycle",
+    "type": "image",
+    "image": "/assets/gallery/concept-lightcycle.svg",
+    "summary": "Illustrative concept art card using simple SVG vectors.",
+    "notesFile": "/content/gallery/concept-lightcycle.md"
+  },
+  {
+    "id": "ascii-field",
+    "title": "ASCII Field",
+    "type": "ascii",
+    "image": "/assets/gallery/ascii-field.svg",
+    "summary": "ASCII-oriented visual sample with green tint treatment.",
+    "notesFile": "/content/gallery/ascii-field.md"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "System Brief PDF",
+    "date": "2026-03-18",
+    "url": "/assets/downloads/system-brief.pdf",
+    "size": 1722,
+    "sha256": "987a3ba4902a9d18d13e37d9865a4812cfd496c98a3fb0eb500507c616cfadae",
+    "notes": "Sample PDF for documentation, release notes or manuals."
+  },
+  {
+    "title": "Assets Bundle ZIP",
+    "date": "2026-03-18",
+    "url": "/assets/downloads/assets-bundle.zip",
+    "size": 333,
+    "sha256": "399734be21391f8bc14ac2ab6f4005e9295614d862a63e46474cbb6d83150a51",
+    "notes": "Sample archive containing a text file and placeholder readme."
+  },
+  {
+    "title": "PGP Public Key",
+    "date": "2026-03-18",
+    "url": "/assets/downloads/publickey.asc",
+    "size": 126,
+    "sha256": "d7450d50c7e9bdf3af7eab54014679ef6d1f4c2e48e28bfce9e97a6ba40c1ec1",
+    "notes": "ASCII armored key file placeholder."
+  }
+]

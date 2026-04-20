@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#05070b">
+  <base href="/">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <script src="/assets/js/markdown.js" defer></script>
+  <script src="/assets/js/site.js" defer></script>
+</head>
+<body data-page="home">
+  <div class="viewport-shell">
+    <div class="site-shell">
+      <div id="header-slot"></div>
+      <main class="page-main page-main-home">
+        <section class="panel shell-panel hero">
+          <div>
+            <h1 class="panel-title">Home // Access Terminal</h1>
+            <div class="panel-subtitle">Auto-typed intro with client context, quick links and deep-link samples.</div>
+          </div>
+          <div class="terminal-window">
+            <div id="typewriter" class="typewriter" aria-live="polite"></div>
+          </div>
+        </section>
+        <section class="panel shell-panel">
+          <h2 class="panel-title">Portal Cards</h2>
+          <div class="stats-grid">
+            <div class="stat-card"><span class="muted">Local Time</span><strong id="home-time">--</strong></div>
+            <div class="stat-card"><span class="muted">Browser</span><strong id="home-browser">--</strong></div>
+            <div class="stat-card"><span class="muted">Viewport</span><strong id="home-viewport">--</strong></div>
+          </div>
+          <div class="tiles">
+            <article class="tile"><h3>News</h3><p>Searchable story index with modal Markdown reader.</p><a class="card-link" href="/news.html#grid-stability-patch">Open sample story</a></article>
+            <article class="tile"><h3>Projects</h3><p>Project entries using the same rich Markdown pattern.</p><a class="card-link" href="/projects.html#sentinel-dashboard">Open sample project</a></article>
+            <article class="tile"><h3>About</h3><p>Markdown-driven page displayed in a bounded modal.</p><a class="card-link" href="/about.html">Open about modal</a></article>
+            <article class="tile"><h3>Tools</h3><p>Password utility, downloads, gallery and contact/keys.</p><a class="card-link" href="/tools/password-generator.html">Enter tools</a></article>
+            <article class="tile"><h3>Downloads</h3><p>Files, sizes, checksums and direct download links.</p><a class="card-link" href="/tools/downloads.html">View downloads</a></article>
+            <article class="tile"><h3>Gallery</h3><p>Poster/concept cards with green-tint modal previews.</p><a class="card-link" href="/tools/gallery.html">Open gallery</a></article>
+          </div>
+        </section>
+      </main>
+      <div id="footer-slot"></div>
+    </div>
+  </div>
+</body>
+</html>

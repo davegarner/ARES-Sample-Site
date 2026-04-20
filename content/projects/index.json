@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sentinel-dashboard",
+    "title": "Sentinel Dashboard",
+    "date": "2026-03-20",
+    "summary": "A live operational dashboard concept with expandable telemetry panels.",
+    "tags": [
+      "dashboard",
+      "ui"
+    ],
+    "file": "/content/projects/sentinel-dashboard.md"
+  },
+  {
+    "id": "vault-ingest",
+    "title": "Vault Ingest Pipeline",
+    "date": "2026-03-06",
+    "summary": "Content ingestion flow for Markdown, JSON, PDFs and media assets.",
+    "tags": [
+      "pipeline",
+      "content"
+    ],
+    "file": "/content/projects/vault-ingest.md"
+  },
+  {
+    "id": "theme-matrix",
+    "title": "Theme Matrix",
+    "date": "2026-02-18",
+    "summary": "A configurable theme engine with accent hues and local persistence.",
+    "tags": [
+      "theme",
+      "css"
+    ],
+    "file": "/content/projects/theme-matrix.md"
+  }
+]
